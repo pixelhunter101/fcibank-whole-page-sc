@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fcibank.com.pk	TRUE	/	FALSE	1999999999	PHPSESSID	64517642eeb741f220d70386d63cbea6
+www.fcibank.com.pk	TRUE	/	FALSE	1999999999	language	en
+
